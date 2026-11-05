@@ -1,0 +1,10 @@
+# 编译产物与运行数据
+*.exe
+plugin.log
+plugin.settings.txt
+plugin.userquit
+.vs/
+bin/
+obj/
+
+*.png
